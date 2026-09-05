@@ -14,11 +14,11 @@ Personal GitHub profile showcasing my projects, skills, and journey in web devel
 
 <br><br>
 
-<a href=https://www.linkedin.com/in/parag-sangle-0959953a3?utm_source=share_via&utm_content=profile&utm_medium=member_android
+<a href="https://www.linkedin.com/in/parag-sangle-0959953a3?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href=paragsangale7@gmail.com
+<a href="paragsangale7@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
